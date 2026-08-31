@@ -8,23 +8,23 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/PYTHON-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-4C1D95?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-312E81?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/STREAMLIT-1E3A8A?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-0F766E?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-064E3B?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-115E59?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/STREAMLIT-0D9488?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://github.com/abhinavsinh014-prog">
-<img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-064E3B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abhinavsinh014@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-115E59?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/abhinavsinh014-prog">
@@ -33,9 +33,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abhinavsinh014-prog&label=PROFILE+VIEWS&color=6D28D9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/abhinavsinh014-prog?label=FOLLOWERS&style=flat-square&color=4C1D95"/>
-<img src="https://img.shields.io/github/stars/abhinavsinh014-prog?label=STARS&style=flat-square&color=312E81"/>
+<img src="https://komarev.com/ghpvc/?username=abhinavsinh014-prog&label=PROFILE+VIEWS&color=0F766E&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/abhinavsinh014-prog?label=FOLLOWERS&style=flat-square&color=064E3B"/>
+<img src="https://img.shields.io/github/stars/abhinavsinh014-prog?label=STARS&style=flat-square&color=115E59"/>
 
 </div>
 
