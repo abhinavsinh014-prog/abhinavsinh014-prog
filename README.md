@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=ABHINAV%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:0F766E,100:14B8A6&height=220&section=header&text=ABHINAV%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING%20%7C%20NLP&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Developer;Python+%7C+Machine+Learning+%7C+Deep+Learning;Building+AI+Applications+with+Python;Currently+Learning+LLMs+%7C+RAG+%7C+Agentic+AI;Exploring+the+Future+of+Artificial+Intelligence" alt="Typing SVG"/>
@@ -375,27 +375,6 @@ A machine learning project focused on understanding probabilistic classification
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhinavsinh014-prog&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsinh014-prog&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
-
-</div>
-
----
 ---
 
 ## Contribution Snake
