@@ -8,10 +8,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/PYTHON-0F766E?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-064E3B?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-115E59?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/STREAMLIT-0D9488?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-24292F?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/STREAMLIT-EE4C3C?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 <br/><br/>
 
@@ -20,15 +21,15 @@
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-064E3B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abhinavsinh014@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-115E59?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/abhinavsinh014-prog">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -89,10 +90,10 @@ My next major learning goals are **Large Language Models (LLMs), Retrieval-Augme
 
 ### Machine Learning
 
-<img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-312E81?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-3776AB?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-6D28D9?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-1E3A8A?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-F80000?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 ### Deep Learning
 
@@ -349,7 +350,7 @@ A machine learning project focused on understanding probabilistic classification
 
 <br/>
 
-<img src="https://img.shields.io/badge/ORACLE-AI%20FOUNDATION%20ASSOCIATE-6D28D9?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORACLE-AI%20FOUNDATION%20ASSOCIATE-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </div>
 
@@ -360,17 +361,17 @@ A machine learning project focused on understanding probabilistic classification
 <div align="center">
 
 <a href="https://github.com/abhinavsinh014-prog">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavsinh014-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavsinh014-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0F766E&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9&include_all_commits=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/abhinavsinh014-prog">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsinh014-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsinh014-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=0F766E&text_color=C4B5FD&langs_count=8"/>
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=abhinavsinh014-prog&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
+<img src="https://streak-stats.demolab.com?user=abhinavsinh014-prog&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=0F766E&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
 </a>
 
 </div>
