@@ -1,43 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=ABHINAV%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20LLMs&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=ABHINAV%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems+with+Python;Deep+Learning+%7C+LLMs+%7C+Generative+AI;Exploring+Agentic+AI+%26+MLOps;Turning+Data+into+Production-Ready+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Developer;Python+%7C+Machine+Learning+%7C+Deep+Learning;Building+AI+Applications+with+Python;Currently+Learning+LLMs+%7C+RAG+%7C+Agentic+AI;Exploring+the+Future+of+Artificial+Intelligence" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CSE--AIML-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/AKTU-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-312E81?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-4C1D95?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-312E81?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/STREAMLIT-1E3A8A?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://github.com/Abhinavsingh014-prog">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://github.com/abhinavsinh014-prog">
+<img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abhinav-singh/">
-<img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abhinavsinh014@gmail.com">
-<img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Abhinavsingh014-prog">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/abhinavsinh014-prog">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abhinavsingh014-prog&label=PROFILE+VIEWS&color=6D28D9&style=flat-square"/>
-
-<img src="https://img.shields.io/github/followers/Abhinavsingh014-prog?label=FOLLOWERS&style=flat-square&color=4C1D95"/>
-
-<img src="https://img.shields.io/github/stars/Abhinavsingh014-prog?label=STARS&style=flat-square&color=312E81"/>
+<img src="https://komarev.com/ghpvc/?username=abhinavsinh014-prog&label=PROFILE+VIEWS&color=6D28D9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/abhinavsinh014-prog?label=FOLLOWERS&style=flat-square&color=4C1D95"/>
+<img src="https://img.shields.io/github/stars/abhinavsinh014-prog?label=STARS&style=flat-square&color=312E81"/>
 
 </div>
 
@@ -45,39 +43,35 @@
 
 ## About Me
 
-I am a **CSE-AIML engineering student and aspiring AI Engineer** focused on building intelligent, scalable, and practical software systems.
+I am an **AI/ML-focused developer** passionate about building practical intelligent applications and continuously expanding my knowledge in Artificial Intelligence.
 
-My engineering journey spans **Machine Learning, Deep Learning, Generative AI, Large Language Models, and Agentic AI**, with a strong emphasis on understanding the fundamentals behind the technologies I build with.
+My current foundation is built around **Python, Streamlit, Machine Learning, and Deep Learning**. I enjoy taking theoretical concepts and turning them into functional applications that solve practical problems.
 
-I work primarily with **Python and the modern AI/ML ecosystem**, transforming concepts into working applications through experimentation, model development, evaluation, deployment, and iterative improvement.
+I am currently gaining professional experience through an **AI Internship at Smarted**, where I am developing practical exposure to AI-focused development and real-world problem solving.
 
-I am particularly interested in the intersection of **AI research, software engineering, and production-ready intelligent systems**.
-
-<br/>
+My next major learning goals are **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**.
 
 ### Engineering Focus
 
-| Domain | Focus |
+| Area | Focus |
 |:---|:---|
-| **Artificial Intelligence** | Intelligent systems, AI applications, autonomous workflows |
-| **Machine Learning** | Supervised learning, classification, regression, model evaluation |
-| **Deep Learning** | Neural networks, optimization, representation learning |
-| **Generative AI** | LLMs, Transformers, RAG, AI applications |
-| **AI Engineering** | Production-oriented AI systems and intelligent automation |
-| **MLOps** | Model lifecycle, deployment, reproducibility |
-| **Open Source** | Collaboration, contribution, engineering best practices |
-
-<br/>
+| **Programming** | Python |
+| **Machine Learning** | Classification, Regression, Model Training, Evaluation |
+| **Deep Learning** | Neural Networks, ANN, Forward Propagation, Backpropagation |
+| **Application Development** | Streamlit |
+| **Data Science** | NumPy, Pandas, Matplotlib |
+| **Current Learning** | LLMs, RAG, Agentic AI |
 
 ### Open To
 
-- Open-source contributions
-- AI/ML engineering opportunities
-- Research-oriented projects
-- Hackathons and technical collaborations
-- Generative AI projects
-- Agentic AI development
-- MLOps and production AI systems
+- AI/ML collaborations
+- Open-source projects
+- AI internships
+- Machine Learning projects
+- Deep Learning projects
+- Hackathons
+- Research-oriented AI projects
+- Real-world AI development opportunities
 
 ---
 
@@ -85,46 +79,33 @@ I am particularly interested in the intersection of **AI research, software engi
 
 <div align="center">
 
-### Languages
+### Programming
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css&theme=dark" />
-
-<br/><br/>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
 <br/><br/>
 
-### Machine Learning & Data Science
+<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-4C1D95?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-6D28D9?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+### Machine Learning
+
+<img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-312E81?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-6D28D9?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-1E3A8A?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-<br/><br/>
 
 ### Deep Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<img src="https://img.shields.io/badge/Deep%20Learning-6D28D9?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-4C1D95?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+### Application Development
+
+<img src="https://skillicons.dev/icons?i=streamlit&theme=dark"/>
 
 <br/><br/>
 
-### Generative AI & LLM
-
-<img src="https://img.shields.io/badge/Hugging%20Face-6D28D9?style=for-the-badge&logo=huggingface&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transformers-4C1D95?style=for-the-badge&logo=huggingface&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-312E81?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-1E3A8A?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white"/>
-
-<br/><br/>
-
-### Deployment & Applications
-
-<img src="https://skillicons.dev/icons?i=streamlit,docker&theme=dark" />
+<img src="https://img.shields.io/badge/Streamlit-312E81?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </div>
 
@@ -135,22 +116,27 @@ I am particularly interested in the intersection of **AI research, software engi
 <div align="center">
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### Machine Learning
 
+- Supervised Learning
+- Regression
+- Classification
 - Linear Regression
 - Multiple Linear Regression
 - Polynomial Regression
-- Logistic Regression
-- K-Nearest Neighbors
 - Decision Trees
+- K-Nearest Neighbors
 - Naive Bayes
-- Model Evaluation
-- Feature Engineering
+- Train / Test Split
+- Feature Scaling
 - Data Preprocessing
 - Exploratory Data Analysis
+- Model Evaluation
 
 </td>
 
@@ -166,47 +152,79 @@ I am particularly interested in the intersection of **AI research, software engi
 - Gradient Descent
 - Neural Network Training
 - Model Optimization
-- PyTorch
-- TensorFlow
+- Deep Learning Fundamentals
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### Generative AI
+### Python Ecosystem
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- Streamlit
+- Jupyter
+- Google Colab
+
+</td>
+
+<td width="50%" valign="top">
+
+### Future Learning
 
 - Large Language Models
 - Transformers
-- Hugging Face
+- Retrieval-Augmented Generation
+- Embeddings
+- Vector Databases
 - Prompt Engineering
-- Retrieval Augmented Generation
-- Vector Search
-- LLM Applications
-- Local LLMs
-- Ollama
-
-</td>
-
-<td width="50%" valign="top">
-
-### AI Engineering
-
-- Agentic AI
 - AI Agents
-- MLOps
-- Model Deployment
-- Streamlit
-- AI Application Development
-- Automation
-- Production-oriented ML
+- Agentic AI
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
+
+---
+
+## Internship Experience
+
+<details>
+<summary><b>AI Intern — Smarted</b></summary>
+
+<br/>
+
+### Smarted — Artificial Intelligence Internship
+
+Currently gaining practical industry exposure through an **AI Internship at Smarted**.
+
+This experience is helping me strengthen my understanding of Artificial Intelligence through practical implementation, experimentation, problem solving, and exposure to real-world AI workflows.
+
+### Focus Areas
+
+- Artificial Intelligence
+- Machine Learning
+- Practical AI development
+- Model experimentation
+- Problem solving
+- AI application development
+
+<br/>
+
+<img src="https://img.shields.io/badge/ROLE-AI%20INTERN-6D28D9?style=for-the-badge&logo=ai&logoColor=white"/>
+
+</details>
 
 ---
 
@@ -217,7 +235,7 @@ I am particularly interested in the intersection of **AI research, software engi
 
 <br/>
 
-A supervised machine learning project designed to predict house prices from structured housing data.
+A supervised machine learning project focused on predicting house prices using structured housing data.
 
 ### Implementation
 
@@ -227,10 +245,10 @@ A supervised machine learning project designed to predict house prices from stru
 - Train / test split
 - Feature scaling
 - Linear Regression
+- Model prediction
 - Model evaluation
-- Error analysis
 
-### Evaluation
+### Evaluation Metrics
 
 `MSE` · `RMSE` · `MAE` · `R²`
 
@@ -240,7 +258,7 @@ A supervised machine learning project designed to predict house prices from stru
 
 <br/>
 
-<a href="https://github.com/Abhinavsingh014-prog">
+<a href="https://github.com/abhinavsinh014-prog">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -253,7 +271,7 @@ A supervised machine learning project designed to predict house prices from stru
 
 <br/>
 
-An interactive machine learning application built using a Decision Tree classifier and Streamlit.
+An interactive machine learning application developed using a Decision Tree classifier and Streamlit.
 
 ### Implementation
 
@@ -271,7 +289,7 @@ An interactive machine learning application built using a Decision Tree classifi
 
 <br/>
 
-<a href="https://github.com/Abhinavsingh014-prog">
+<a href="https://github.com/abhinavsinh014-prog">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -284,16 +302,16 @@ An interactive machine learning application built using a Decision Tree classifi
 
 <br/>
 
-A classical machine learning project focused on understanding probabilistic classification and implementing a Naive Bayes workflow.
+A machine learning project focused on understanding probabilistic classification using the Naive Bayes algorithm.
 
 ### Core Concepts
 
 - Probability-based classification
-- Feature preprocessing
+- Data preprocessing
+- Feature preparation
 - Model training
 - Prediction
 - Classification evaluation
-- Machine learning workflow
 
 ### Stack
 
@@ -301,37 +319,8 @@ A classical machine learning project focused on understanding probabilistic clas
 
 <br/>
 
-<a href="https://github.com/Abhinavsingh014-prog">
+<a href="https://github.com/abhinavsinh014-prog">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>💼 GigWise — AI Financial Copilot</b></summary>
-
-<br/>
-
-An AI-oriented project concept focused on helping gig workers understand and manage financial decisions through intelligent assistance.
-
-### Core Direction
-
-- AI-powered financial assistance
-- Intelligent recommendations
-- Data-driven insights
-- User-centric workflows
-- Scalable AI application architecture
-
-### Stack
-
-`Python` · `Machine Learning` · `AI` · `Firebase`
-
-<br/>
-
-<a href="https://github.com/Abhinavsingh014-prog">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </details>
@@ -343,6 +332,7 @@ An AI-oriented project concept focused on helping gig workers understand and man
 <div align="center">
 
 <table>
+
 <tr>
 <th>Certification</th>
 <th>Organization</th>
@@ -355,19 +345,11 @@ An AI-oriented project concept focused on helping gig workers understand and man
 <td>Artificial Intelligence</td>
 </tr>
 
-<tr>
-<td><b>Data Science & Machine Learning</b></td>
-<td>National Skill Up</td>
-<td>Data Science & ML</td>
-</tr>
-
-<tr>
-<td><b>Generative AI Learning</b></td>
-<td>Google / Kaggle</td>
-<td>Generative AI</td>
-</tr>
-
 </table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ORACLE-AI%20FOUNDATION%20ASSOCIATE-6D28D9?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </div>
 
@@ -377,24 +359,18 @@ An AI-oriented project concept focused on helping gig workers understand and man
 
 <div align="center">
 
-<a href="https://github.com/Abhinavsingh014-prog">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinavsingh014-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9&include_all_commits=true&count_private=true"/>
-
+<a href="https://github.com/abhinavsinh014-prog">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavsinh014-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9&include_all_commits=true&count_private=true"/>
 </a>
 
-<a href="https://github.com/Abhinavsingh014-prog">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavsingh014-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8"/>
-
+<a href="https://github.com/abhinavsinh014-prog">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsinh014-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Abhinavsingh014-prog">
-
-<img src="https://streak-stats.demolab.com?user=Abhinavsingh014-prog&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
-
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=abhinavsinh014-prog&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
 </a>
 
 </div>
@@ -405,7 +381,7 @@ An AI-oriented project concept focused on helping gig workers understand and man
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhinavsingh014-prog&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhinavsinh014-prog&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -415,7 +391,7 @@ An AI-oriented project concept focused on helping gig workers understand and man
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavsingh014-prog&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsinh014-prog&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
@@ -425,7 +401,7 @@ An AI-oriented project concept focused on helping gig workers understand and man
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abhinavsingh014-prog/Abhinavsingh014-prog/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/abhinavsinh014-prog/abhinavsinh014-prog/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -438,28 +414,27 @@ Learning:
   - Large Language Models
   - Transformers
   - Retrieval Augmented Generation
+  - Embeddings
+  - Vector Databases
   - Agentic AI
-  - MLOps
-  - Advanced Deep Learning
 
 Building:
-  - AI/ML applications
-  - Intelligent automation systems
-  - LLM-powered applications
-  - Production-oriented ML projects
-  - Open-source projects
+  - Machine Learning applications
+  - Deep Learning projects
+  - Streamlit AI applications
+  - Practical AI projects
 
 Exploring:
-  - Generative AI
+  - LLM Applications
+  - RAG Architectures
   - AI Agents
-  - Model deployment
-  - Vector databases
-  - RAG architectures
-  - Scalable AI systems
+  - Generative AI
+  - Production AI Systems
 
 Open To:
-  - Open Source
   - AI/ML Collaborations
+  - Open Source
+  - AI Internships
   - Hackathons
   - Research Projects
-  - AI Engineering Opportunities
+  - Real-World AI Projects
