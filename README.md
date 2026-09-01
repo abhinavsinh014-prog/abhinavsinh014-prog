@@ -360,22 +360,15 @@ A machine learning project focused on understanding probabilistic classification
 
 <div align="center">
 
-<a href="https://github.com/abhinavsinh014-prog">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavsinh014-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=10B981&text_color=99F6E4&ring_color=0F766E&include_all_commits=true&count_private=true"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavsinh014-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=10B981&text_color=99F6E4&ring_color=0F766E" />
 
-<a href="https://github.com/abhinavsinh014-prog">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsinh014-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=99F6E4&langs_count=8"/>
-</a>
+<img height="180em" src="https://streak-stats.demolab.com?user=abhinavsinh014-prog&theme=dark&hide_border=true&background=0D1117&ring=14B8A6&fire=10B981&currStreakLabel=5EEAD4&sideLabels=99F6E4&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
 
-<br/><br/>
+<br><br>
 
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=abhinavsinh014-prog&theme=dark&hide_border=true&background=0D1117&ring=14B8A6&fire=10B981&currStreakLabel=5EEAD4&sideLabels=99F6E4&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsinh014-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=99F6E4&langs_count=8" />
 
 </div>
-
 ## Contribution Snake
 
 <div align="center">
