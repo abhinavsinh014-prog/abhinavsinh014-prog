@@ -1,10 +1,10 @@
 <div align="center">
 
-<h2>AI | MACHINE LEARNING | DEEP LEARNING | NLP</h2>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING%20%7C%20NLP&fontSize=27&fontColor=5EEAD4&fontAlignY=55&animation=fadeIn"/>
 
-<p>
-Building intelligent solutions with Python & Machine Learning
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=750&lines=Building+AI+Applications+with+Python;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Currently+Learning+Transformers+%26+Hugging+Face;Exploring+LLMs+%7C+RAG+%7C+Agentic+AI" alt="Typing SVG"/>
+</a>
 
 </div>
 
