@@ -383,30 +383,27 @@ A machine learning project focused on understanding probabilistic classification
 
 ```yaml
 Learning:
-  - Large Language Models
   - Transformers
-  - Retrieval Augmented Generation
-  - Embeddings
-  - Vector Databases
-  - Agentic AI
+  - Hugging Face
+  - Large Language Models
+  - Attention Mechanisms
 
 Building:
-  - Machine Learning applications
-  - Deep Learning projects
-  - Streamlit AI applications
-  - Practical AI projects
+  - NLP Applications
+  - Machine Learning Projects
+  - AI-powered Streamlit Applications
 
 Exploring:
-  - LLM Applications
-  - RAG Architectures
-  - AI Agents
-  - Generative AI
-  - Production AI Systems
+  - RAG
+  - LLMs
+  - Agentic AI
+
+Completed:
+  - Natural Language Processing
+  - Deep Learning
+  - Machine Learning
 
 Open To:
-  - AI/ML Collaborations
-  - Open Source
-  - AI Internships
-  - Hackathons
-  - Research Projects
-  - Real-World AI Projects
+  - AI/ML Internships
+  - AI Engineering Opportunities
+  - Open Source Collaboration
