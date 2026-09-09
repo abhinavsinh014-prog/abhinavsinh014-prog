@@ -91,103 +91,43 @@ Currently, I am:
 
 <div align="center">
 
-<h2>Tech Stack</h2>
+<h2>⚡ Tech Stack</h2>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 </div>
----
 
-## AI / ML Knowledge
+## 🧠 AI / ML Knowledge
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Machine Learning
-
-- Supervised Learning
-- Regression
-- Classification
-- Linear Regression
-- Multiple Linear Regression
-- Polynomial Regression
-- Decision Trees
-- K-Nearest Neighbors
-- Naive Bayes
-- Train / Test Split
-- Feature Scaling
-- Data Preprocessing
-- Exploratory Data Analysis
-- Model Evaluation
-
-</td>
-
-<td width="50%" valign="top">
-
-### Deep Learning
-
-- Artificial Neural Networks
-- Perceptrons
-- Forward Propagation
-- Loss Functions
-- Backpropagation
-- Gradient Descent
-- Neural Network Training
-- Model Optimization
-- Deep Learning Fundamentals
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Python Ecosystem
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- Streamlit
-- Jupyter
-- Google Colab
-
-</td>
-
-<td width="50%" valign="top">
-
-### Future Learning
-
-- Large Language Models
-- Transformers
-- Retrieval-Augmented Generation
-- Embeddings
-- Vector Databases
-- Prompt Engineering
-- AI Agents
-- Agentic AI
-
-</td>
-
-</tr>
-
-</table>
+| Domain | Skills & Knowledge | Status |
+|:---:|:---|:---:|
+| 🐍 **Python** | Python Programming • OOP • Data Handling | 🟢 Strong |
+| 🤖 **Machine Learning** | Regression • Classification • SVM • KNN • Decision Trees • Naive Bayes | 🟢 Completed |
+| 🧠 **Deep Learning** | ANN • Perceptron • Forward Propagation • Loss Functions • Backpropagation • CNN | 🟢 Completed |
+| 💬 **NLP** | Tokenization • Stopwords • Stemming • Lemmatization • Text Preprocessing | 🟢 Completed |
+| 🎨 **Streamlit** | ML/DL Web Applications • Model Deployment Interfaces | 🟢 Building |
+| 🤗 **Transformers** | Transformer Architecture • Attention • Hugging Face | 🟡 Learning |
+| 🧩 **LLMs** | Large Language Models • Modern NLP Architectures | 🔵 Exploring |
+| 📚 **RAG** | Retrieval-Augmented Generation • Embeddings • Vector Databases | 🔵 Next |
+| 🤖 **Agentic AI** | AI Agents • Tool Use • Multi-Step AI Systems | 🔵 Future Focus |
 
 </div>
-
 ---
 
 ## Internship Experience
@@ -202,6 +142,14 @@ Currently, I am:
 Currently gaining practical industry exposure through an **AI Internship at Smarted**.
 
 This experience is helping me strengthen my understanding of Artificial Intelligence through practical implementation, experimentation, problem solving, and exposure to real-world AI workflows.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/COMPLETED-Python%20%7C%20ML%20%7C%20DL%20%7C%20NLP-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARNING-Transformers%20%7C%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/NEXT-LLMs%20%7C%20RAG%20%7C%20Agentic%20AI-0F766E?style=for-the-badge"/>
+
+</div>
 
 ### Focus Areas
 
