@@ -45,15 +45,19 @@
 
 ---
 
-## About Me
+## About
 
-I am an **AI/ML-focused developer** passionate about building practical intelligent applications and continuously expanding my knowledge in Artificial Intelligence.
+I am a CSE (AI & ML) student focused on building practical AI and machine learning applications.
 
-My current foundation is built around **Python, Streamlit, Machine Learning, and Deep Learning**. I enjoy taking theoretical concepts and turning them into functional applications that solve practical problems.
+My current foundation includes **Python, Machine Learning, Deep Learning, NLP, and Streamlit**. I have recently completed my NLP learning journey and am now diving deeper into **Transformers and the Hugging Face ecosystem**.
 
-I am currently gaining professional experience through an **AI Internship at Smarted**, where I am developing practical exposure to AI-focused development and real-world problem solving.
+My long-term goal is to grow into an **AI Engineer**, with a focus on **LLMs, RAG, and Agentic AI**, while continuously building real-world projects and strengthening my engineering skills.
 
-My next major learning goals are **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**.
+Currently, I am:
+- Learning Transformers and modern NLP architectures
+- Building AI/ML applications with Python and Streamlit
+- Exploring LLMs, RAG, and Agentic AI
+- Open to AI/ML internship opportunities and collaboration
 
 ### Engineering Focus
 
