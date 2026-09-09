@@ -89,40 +89,18 @@ Currently, I am:
 
 ---
 
-## Tech Stack
-
 <div align="center">
 
-### Programming
+<h2>Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
-
-### Machine Learning
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-3776AB?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-6D28D9?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-F80000?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-### Deep Learning
-
-<img src="https://img.shields.io/badge/Deep%20Learning-6D28D9?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neural%20Networks-4C1D95?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-### Application Development
-
-<img src="https://skillicons.dev/icons?i=streamlit&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Streamlit-312E81?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 </div>
-
 ---
 
 ## AI / ML Knowledge
