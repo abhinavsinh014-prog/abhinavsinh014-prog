@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=ABHINAV%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Developer;Python+%7C+Machine+Learning+%7C+Deep+Learning;Building+AI+Applications+with+Python;Currently+Learning+LLMs+%7C+RAG+%7C+Agentic+AI;Exploring+the+Future+of+Artificial+Intelligence" alt="Typing SVG"/>
-</a>
-
 <br/>
 
 <div align="center">
