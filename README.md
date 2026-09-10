@@ -30,7 +30,7 @@
 
 </div>
 <br/><br/>
-<div align="center">
+
   
 <a href="https://github.com/abhinavsinh014-prog">
 <img src="https://img.shields.io/badge/PORTFOLIO-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
