@@ -50,10 +50,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abhinavsinh014-prog&label=PROFILE+VIEWS&color=0F766E&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/abhinavsinh014-prog?label=FOLLOWERS&style=flat-square&color=064E3B"/>
-<img src="https://img.shields.io/github/stars/abhinavsinh014-prog?label=STARS&style=flat-square&color=115E59"/>
-
 </div>
 
 ---
