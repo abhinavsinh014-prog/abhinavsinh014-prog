@@ -158,11 +158,10 @@ Currently, I am:
 
 </details>
 
-</div>
 ---
 
 ### Smarted — Artificial Intelligence Internship
-
+<div align="center">
 Currently gaining practical industry exposure through an **AI Internship at Smarted**.
 
 This experience is helping me strengthen my understanding of Artificial Intelligence through practical implementation, experimentation, problem solving, and exposure to real-world AI workflows.
