@@ -158,6 +158,7 @@ Currently, I am:
 
 </details>
 
+</div>
 ---
 
 ### Smarted — Artificial Intelligence Internship
