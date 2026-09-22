@@ -185,27 +185,6 @@ This experience is helping me strengthen my understanding of Artificial Intellig
 
 <br/>
 
-<table>
-
-<tr>
-<th>Internship</th>
-<th>Organization</th>
-<th>Domain</th>
-</tr>
-
-<tr>
-<td><b>AI Internship</b></td>
-<td>SmartED</td>
-<td>Artificial Intelligence</td>
-</tr>
-
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/ROLE-AI%20INTERN-6D28D9?style=for-the-badge&logo=ai&logoColor=white"/>
-<div align="center">
-
 </details>
 
 ---
