@@ -154,7 +154,7 @@ Currently, I am:
 <br/>
 
 <img src="https://img.shields.io/badge/ROLE-AI%20INTERN-6D28D9?style=for-the-badge&logo=ai&logoColor=white"/>
-<div align="center">
+
 
 </details>
 
