@@ -347,9 +347,4 @@ Exploring:
 Completed:
   - Natural Language Processing
   - Deep Learning
-  - Machine Learning
-
-Open To:
-  - AI/ML Internships
-  - AI Engineering Opportunities
-  - Open Source Collaboration
+  - Machine Learning 
