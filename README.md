@@ -318,13 +318,7 @@ A machine learning project focused on understanding probabilistic classification
 
 ---
 
-## Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhinavsinh014-prog/abhinavsinh014-prog/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 ## Current Focus
 
 ```yaml
