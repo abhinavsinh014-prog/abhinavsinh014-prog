@@ -337,4 +337,8 @@ Exploring:
   - LLMs
   - Agentic AI
 
+Completed:
+  - Natural Language Processing
+  - Deep Learning
+  - Machine Learning 
 
