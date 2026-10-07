@@ -319,26 +319,3 @@ A machine learning project focused on understanding probabilistic classification
 ---
 
 
-## Current Focus
-
-```yaml
-Learning:
-  - Transformers
-  - Hugging Face
-  - Large Language Models
-  - Attention Mechanisms
-
-Building:
-  - NLP Applications
-  - Machine Learning Projects
-  - AI-powered Streamlit Applications
-
-Exploring:
-  - RAG
-  - LLMs
-  - Agentic AI
-
-Completed:
-  - Natural Language Processing
-  - Deep Learning
-  - Machine Learning 
