@@ -327,4 +327,9 @@ Learning:
   - Large Language Models
   - Attention Mechanisms
 
+Building:
+  - NLP Applications
+  - Machine Learning Projects
+  - AI-powered Streamlit Applications
+
 
