@@ -332,4 +332,9 @@ Building:
   - Machine Learning Projects
   - AI-powered Streamlit Applications
 
+Exploring:
+  - RAG
+  - LLMs
+  - Agentic AI
+
 
