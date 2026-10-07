@@ -318,4 +318,13 @@ A machine learning project focused on understanding probabilistic classification
 
 ---
 
+## Current Focus
+
+```yaml
+Learning:
+  - Transformers
+  - Hugging Face
+  - Large Language Models
+  - Attention Mechanisms
+
 
