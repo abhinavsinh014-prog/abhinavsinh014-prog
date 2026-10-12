@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:064E3B,50:0F766E,100:14B8A6&height=220&section=header&text=ABHINAV%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING%20%7C%20NLP&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
